@@ -1,0 +1,202 @@
+
+/*NAVBAR*/
+
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+    border: 0;
+    
+}
+.body{
+    width: 100%;
+    height: 100vh;
+    display:flex;
+   
+    
+}
+
+
+.navbar{
+    height: 160px;
+    background-image: url('imagenes/fondo_navbar4.jfif');
+    opacity: 60%;
+    background-position: center;
+    -webkit-box-shadow: 4px 4px 7px rgb(226, 235, 234);
+    box-shadow: 9px 9px 9px rgb(145, 228, 217);
+    
+}
+
+.rocola{
+    color:yellow;
+    font-family: 'Passions Conflict', cursive;
+    font-size: 90px;
+
+}
+
+.bebidas{
+    color: aliceblue;
+    font-family: 'Passions Conflict', cursive;
+    font-size: 50px;
+}
+
+.index_carro{
+    color: aliceblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*PRODUCTOS*/
+
+
+
+
+
+.productos_division{
+    background-image: url('imagenes/fondo_pagina7.jfif');
+    background-repeat:initial;
+    padding: 60px;
+   
+    
+}
+
+.cartas{
+    margin-top: 80px;
+    border-radius: 20px, 15px, 15px;
+   color: white;
+    
+}
+
+
+    
+  
+
+.card_fondo{
+    
+    
+   background-color: rgb(1,1,1,0.40);
+    padding: 15px;
+    border-radius: 20px, 15px, 15px;
+    
+   
+   
+}
+
+
+    
+
+
+.card-img-top{
+   border-radius: 15px 15px 15px 15px;
+    opacity: 80%;
+    width: 110%;
+
+
+}
+
+
+
+.card-title{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   color: white;
+    text-transform: uppercase;
+    padding: 15px;
+}
+
+
+
+.mml{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+
+.precio{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+
+
+.button{
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+/*CARRITO*/
+
+
+.carrito{
+   
+    width: 120%;
+    padding: 30px;
+}
+
+
+.table{
+    margin-top: 100px;
+   color: aliceblue;
+   
+}
+
+.text{
+    color: aqua;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+
+.tbody{
+    color: white;
+}
+
+
+
+.itemCartaTotal{
+    color: white;
+}
+
+
+
+
+
+
+/*FOOTER*/
+
+
+.ft{
+    background-color: black;
+}
+
+.ft-hangar,.ft-titulo{
+    color: rgb(160, 160, 160);
+}
+
+
+.ft-texto{
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
